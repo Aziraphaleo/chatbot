@@ -13,3 +13,12 @@
         printf("%s %d \n",buf,len - 1);
     }
     return NULL;
+
+
+ printf("Prometheus:What you will ask:\n");
+            char newa[100];
+            scanf("%[^\n]",newa);
+            printf("Prometheus:What I could reply:\n");
+            char newr[100];
+            scanf("%[^\n]",newr);
+            
